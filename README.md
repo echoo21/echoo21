@@ -42,9 +42,15 @@ const echoo21 = {
 
 <div align="center">
 
-[![echoo21's github stats](https://github-readme-stats.vercel.app/api?username=echoo21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/echoo21)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=echoo21&theme=tokyonight)](https://github.com/echoo21)
+
+</div>
+
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=echoo21&theme=tokyonight)](https://github.com/echoo21)
 &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=echoo21&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)](https://github.com/echoo21)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=echoo21&theme=tokyonight)](https://github.com/echoo21)
 
 </div>
 
@@ -64,10 +70,14 @@ const echoo21 = {
 
 </div>
 
+---
+
 <div align="center">
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=100&section=footer&animation=fadeIn)
- 
+
 </div>
+
 <div align="center">
 <sub>thanks for visiting · don't forget to touch grass 🌿</sub>
 </div>

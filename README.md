@@ -63,27 +63,3 @@ const echoo21 = {
 [![echoo21's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=echoo21&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
----
-
-### 🐍 &nbsp;contribution snake
-
-<div align="center">
-
-> Run the snake workflow first — see [setup guide](https://github.com/Platane/snk) — then this will appear:
-
-![snake gif](https://github.com/echoo21/echoo21/raw/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=100&section=footer&animation=fadeIn)
-
-</div>
-
-<div align="center">
-<sub>thanks for visiting · don't forget to touch grass 🌿</sub>
-</div>

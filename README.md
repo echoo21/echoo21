@@ -105,8 +105,6 @@ Supervised-learning classification on a public health dataset.
 
 <img src="https://streak-stats.demolab.com?user=echoo21&theme=tokyonight-duo&hide_border=true&background=0d1117" alt="streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=echoo21&bg_color=0d1117&color=00F5A0&line=00D9F5&point=7B61FF&area=true&hide_border=true" alt="activity" width="100%"/>
-
 </div>
 
 <br/>
